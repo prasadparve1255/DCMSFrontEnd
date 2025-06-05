@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+@media (min-width: 768px) {
+  .pie-fixed-height {
+    min-height: 400px;
+    height: 400px;
+  }
+}

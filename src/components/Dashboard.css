@@ -1,0 +1,17 @@
+/* src/components/Dashboard.css */
+.dashboard-container {
+  min-height: 100vh;
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  min-height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.main-content {
+  margin-left: 250px;
+}
